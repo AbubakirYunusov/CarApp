@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="text_sale_of">Sale of cars</string>
+    <string name="text_markia">Car Markia</string>
+    <string name="text_models">Models</string>
+    <string name="text_save">SAVE</string>
+    <string name="text_the">SAVE THE STORTY</string>
+    <string name="text_signout">Sign  out</string>
+    <string name="car_bacdontmatchk">Вы не заполнили все поля!</string>
+    <string name="text_delete">DELETE</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_do_all">Do you want to delete all notes?</string>
+    <string name="text_not">Заполните все поля</string>
+</resources>
